@@ -36,7 +36,7 @@ This is the vision that tacitly, or perhaps serendipitously, shaped
 the early days of the internet.
 
 There were, and are, pragmatic barriers to realizing this vision. If
-the humans will post in disparate places, how are they notified those
+the humans will post in disparate places, how will they be notified those
 new communications even exist? When humans respond by posting in
 “their own” corner of the internet, how do the authors of the original
 post learn of and track the evolving discussion?
@@ -58,10 +58,10 @@ what they offer. As time passes and conversations occur, more links
 and more sources present themselves. RSS clients offered a wide
 variety of tools — very concise “headline”-style layouts, “folders”
 into which related feeds could be collapsed, filtering by keyword,
-etc. — to help users manage large networks of monitored sources.
+etc. — to help users manage large collections of monitored sources.
 
 RSS was a huge success. From about the year 2000 until the early
-2010s, the internet itself what a thriving social network, replete
+2010s, the internet itself was a thriving social network, replete
 with high quality work of every variety posted in widely disparate
 places, but discoverable and accessible to all through RSS readers.
 
@@ -74,10 +74,10 @@ when new posts elsewhere respond to their work, these protocols were
 more complex and less ubiquitously deployed than RSS, and succeeded
 only partially.
 
-RSS did not address an even more foundational problem: How posts,
-along with their accompanying RSS summaries, found their way onto the
-internet in the first place. Initially the internet was populated by
-academics and “geeks”, who willing to overcome a variety of set-up
+RSS did not address an even more foundational problem: How do posts,
+along with their accompanying RSS summaries, find their way onto the
+internet in the first place? Initially the internet was populated by
+academics and “geeks”, who were willing to overcome a variety of set-up
 costs. As the ‘net grew ubiquitous, nearly everyone hoped to
 participate, posting baby pictures or jokes or quick comments on
 current events or restaurant reviews.
