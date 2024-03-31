@@ -13,7 +13,9 @@ Posting and reading across disparate websites was a very ethical
 model, because the network itself is fundamentally public. The network
 exists to create network effects, the social value that grows as more
 and more people can communicate and interact and transact with one
-another. On deontological grounds, economic grounds, as well as
+another.
+
+On deontological grounds, economic grounds, as well as
 democratic and philosophical grounds, it is desirable that network
 effects accrue to the broad public rather than be captured and
 enclosed by a few firms or “platforms”:
