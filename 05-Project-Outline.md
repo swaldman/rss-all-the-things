@@ -3,7 +3,7 @@
 1. Recognize that a richly descriptive, client agnostic format
    embedding or linking core content should be the “canonical”
    description of on-line work, rather than html files which entangle
-   in a particular set of very contingent UI choices. Build on the
+   a particular set of very contingent UI choices. Build on the
    simplicity and existing role of RSS, extended as it is designed to
    be extended, to serve as that format.
 2. Define mix-or-match extensions to RSS that provide metadata across
@@ -65,7 +65,7 @@
    permanently readable backup and storage archive for collections of
    creative work.
 
-3. Design and specify a kind of RSS service, which recommends a
+3. Design and specify a kind of RSS service, which represents a
    dynamic repository of creative work and metadata representable as
    RSS feeds. Define standard (and very simple!) means of adding to,
    updating, querying, and archiving such repositories.
