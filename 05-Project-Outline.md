@@ -28,16 +28,7 @@
      digital signatures associated with identities to elements of RSS,
      in a context where the validity of the association between
      signing key and identity can be checked by clients and repudiated
-     by identity owners in the event of compromise. (“PKI” — public
-     key infrastructure — is in general a domain sorely in need of
-     protocol improvement. There exists an 
-     [XML signature](https://en.wikipedia.org/wiki/XML_Signature) standard
-     that could be deployed for attestations in RSS, but it is not
-     popular or straightforward among developers, and relying upon it
-     might tether RSS to aspects of XML that in the long run we might
-     wish what is logically representable as RSS to be portable
-     from. The question of whether to use XML signature remains worth
-     discussing and investigating.)
+     by identity owners in the event of compromise. [^1]
    - **A degree of curation dimension:** An RSS feed can represent
      everything from a single atomic “item” of content to a full
      listing of the source it represents. The degree of curation
@@ -75,4 +66,14 @@
      links should be through owner-specific DNS names. Reimportation
      into a new service and redirection of DNS to that service
      migrates an author without breaking links.
+
+[^1]: “PKI” — public key infrastructure — is in general a domain sorely in need of
+protocol improvement. There exists an 
+[XML signature](https://en.wikipedia.org/wiki/XML_Signature) standard
+that could be deployed for attestations in RSS, but it is not
+popular or straightforward among developers, and relying upon it
+might tether RSS to aspects of XML that in the long run we might
+wish what is logically representable as RSS to be portable
+from. The question of whether to use XML signature remains worth
+discussing and investigating.)
 
