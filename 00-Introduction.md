@@ -88,8 +88,8 @@ concerned more with profit than any ethical attachment to an open public
 internet. They could draw users into “platforms” or “walled gardens”, and then "monetize" them. 
 By the
 early 2020s, the result of these “innovations” was an anti-ethical
-internet, a site of corporate concentration and monopoly, describing a
-polity of influence games rather than participation and deliberation
+internet, a site of corporate concentration and monopoly, structuring a
+polity ruled by influence games rather than participation and deliberation
 on terms equal to all.
 
 RSS stands for “Really Simple Syndication”. Here in the 2020s, most
