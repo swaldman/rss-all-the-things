@@ -109,7 +109,7 @@ virtue of the simplicity of its foundation, and the ease with which
 that foundation can be extended while fully preserving its core
 functionality. Contemporary podcasts include extensions authored by
 Apple, and also often by Spotify and Google, with annotations from
-erstwhile RSS rival atom. RSS clients — including every podcast app! —
+erstwhile RSS rival Atom. RSS clients — including every podcast app! —
 look for the extensions they know how to handle, which can enrich the
 user experience and enable dramatic new functions. But they can fall
 back to the old RSS core, ignoring whatever bells and whistles they
@@ -117,8 +117,8 @@ don’t understand, and do a serviceable job of notifying users and
 making available new work.
 
 In these dark ages, people are experimenting with a wide variety of
-technologies to try to recover an open, public internet, where value,
-control, and opportunity are widely dispersed and widely
+technologies to try to recover an open, public internet, upon which value,
+control, and opportunity would be dispersed and widely
 shared. [ActivityPub](https://activitypub.rocks/), for example,
 represents a notable public protocol intended to reproduce the
 features that drew the public towards private platforms but under an
@@ -138,7 +138,7 @@ extensible as it ever was.
 
 And the space that RSS *could* fill remains, oddly, almost entirely
 unexplored. When Facebook — and Twitter and Google — moved fast and
-broke things, they seduced the public from the open-internet with its
+broke things, they seduced the public from the open internet with its
 sinews of RSS so quickly and so definitively that we collectively
 entered a brave new world. Except for podcasting, RSS fell into a
 kind of stasis. A decade later, a discontented world is trying fancy
