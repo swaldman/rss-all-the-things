@@ -8,7 +8,7 @@
   annotation with the application-specific metadata these applications
   require in a standard way. Advanced RSS clients or third-party
   aggregators could index these items to provide
-  application-appropriate search and discovery. Although these
+  application-appropriate search and discovery. Although third-party
   aggregators constitute a potential locus of enclosure and
   centralization, author-owned content items with standard annotations
   mean no platform can *exclusively* index and serve the content.
