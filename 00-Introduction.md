@@ -96,7 +96,7 @@ RSS stands for “Really Simple Syndication”. Here in the 2020s, most
 users think of RSS and “Google Reader” as also-rans, retro or
 yesterday’s technologies, if they know of RSS at all. It stands as a
 testament to the quality of RSS’ design, however, that behind the
-scenes RSS remains widely adopted. It is simple &mdash; extraordinarily
+scenes RSS remains widely deployed. It is simple &mdash; extraordinarily
 simple, in economic terms cheap &mdash; to implement. You might as well
 accompany your website with an RSS feed. Further, the one major
 internet application that has evaded enclosure into platforms —
