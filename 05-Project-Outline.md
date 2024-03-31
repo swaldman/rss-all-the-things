@@ -65,14 +65,14 @@
    permanently readable backup and storage archive for collections of
    creative work.
 
-   3. Design and specify a kind of RSS service, which recommends a
-      dynamic repository of creative work and metadata representable as
-      RSS feeds. Define standard (and very simple!) means of adding to,
-      updating, querying, and archiving such repositories.
-      - In such services, base feeds (as opposed to representations that
-        are curations) should have owners and should be exportable as
-        complete archival feeds. They should be transportable, as all
-        links should be through owner-specific DNS names. Reimportation
-        into a new service and redirection of DNS to that service
-        migrates an author without breaking links.
+3. Design and specify a kind of RSS service, which recommends a
+   dynamic repository of creative work and metadata representable as
+   RSS feeds. Define standard (and very simple!) means of adding to,
+   updating, querying, and archiving such repositories.
+   - In such services, base feeds (as opposed to representations that
+     are curations) should have owners and should be exportable as
+     complete archival feeds. They should be transportable, as all
+     links should be through owner-specific DNS names. Reimportation
+     into a new service and redirection of DNS to that service
+     migrates an author without breaking links.
 
