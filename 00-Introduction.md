@@ -1,7 +1,9 @@
 # Introduction
 
 Before social media, the internet itself was the social
-platform. Humans posted communications to websites on disparate
+platform.
+
+Humans posted communications to websites on disparate
 servers. Interested humans read those communications, and then
 replied, sometimes by virtue of facilities offered by the website to
 which they were replying, sometimes simply by posting a new
@@ -92,15 +94,15 @@ RSS stands for “Really Simple Syndication”. Here in the 2020s, most
 users think of RSS and “Google Reader” as also-rans, retro or
 yesterday’s technologies, if they know of RSS at all. It stands as a
 testament to the quality of RSS’ design, however, that behind the
-scenes RSS remains widely adopted. It is simple — extraordinarily
-simple, or in economic terms cheap, to implement. You might as well
+scenes RSS remains widely adopted. It is simple &mdash; extraordinarily
+simple, in economic terms cheap &mdash; to implement. You might as well
 accompany your website with an RSS feed. Further, the one major
 internet application that has evaded enclosure into platforms —
 podcasting — has RSS at its core. Indeed, podcasts are little more
 than RSS files accompanying sound files.
 
 Whether by foresight or serendipity, RSS’ originators crafted a
-protocol replete with limitations and imperfections, but resilient by
+protocol replete with imperfections, but resilient by
 virtue of the simplicity of its foundation, and the ease with which
 that foundation can be extended while fully preserving its core
 functionality. Contemporary podcasts include extensions authored by
