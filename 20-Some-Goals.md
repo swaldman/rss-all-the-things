@@ -14,10 +14,13 @@
   mean no platform can *exclusively* index and serve the content.
 - Dynamic applications should be able to generate and modify feeds and
   respond on behalf of multiple HTTP virtual hosts. Each feed should
-  generates links consistent with an owning host. Clients modifying
-  state identify themselves with a DNS hostname. If the client’s
+  generates links consistent with the owning host, rather than the hostname of the service. 
+  A clients modifying
+  state identifies itself with a DNS hostname. If the client’s
   identity is hosted by the application, the application should
-  generate feeds reflecting in GUIDs and links the client’s
+  generate feeds reflecting in links the client’s
   ownership. If the client’s identity is hosted elsewhere,
-  applications should generate RSS that can be imported into the
-  owning identity’s host application.
+  applications should update its own state, but update
+  the owning identity’s hosting service, if one is provided.
+  In this way, items like blog comments can be kept in sync across
+  multiple relevant services.
