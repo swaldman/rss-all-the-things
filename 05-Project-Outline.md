@@ -75,5 +75,5 @@ popular or straightforward among developers, and relying upon it
 might tether RSS to aspects of XML that in the long run we might
 wish what is logically representable as RSS to be portable
 from. The question of whether to use XML signature remains worth
-discussing and investigating.)
+discussing and investigating.
 
